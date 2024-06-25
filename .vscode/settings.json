@@ -23,6 +23,6 @@
     "security.workspace.trust.untrustedFiles": "open",
     "sonarlint.connectedMode.project": {
         "connectionId": "dangtu2907",
-        "projectKey": "dangtu2907_AIO-187_AIO-homework-week2"
+        "projectKey": "dangtu2907_AIO-187_homework-week2"
     },
 }
