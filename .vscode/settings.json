@@ -12,16 +12,7 @@
         "editor.defaultFormatter": "ms-python.autopep8",
         "editor.formatOnSave": true,
         "files.autoSave": "afterDelay",
-    },
-    "sonarlint.connectedMode.connections.sonarcloud": [
-        {
-            "organizationKey": "dangtu2907",
-            "connectionId": "dangtu2907"
-        }
-    ],
-    "explorer.confirmDragAndDrop": false,
-    "security.workspace.trust.untrustedFiles": "open",
-    "sonarlint.connectedMode.project": {
+    },     "sonarlint.connectedMode.project": {
         "connectionId": "dangtu2907",
         "projectKey": "dangtu2907_AIO-187_homework-week2"
     },
