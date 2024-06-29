@@ -18,4 +18,8 @@
             "connectionId": "dangtu2907"
         }
     ],
+    "sonarlint.connectedMode.project": {
+        "connectionId": "dangtu2907",
+        "projectKey": "dangtu2907_AIO-187_homework"
+    },
 }
